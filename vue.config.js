@@ -1,5 +1,5 @@
-const { defineConfig } = require("@vue/cli-service")
-module.exports = defineConfig({
+// const { defineConfig } = require("@vue/cli-service")
+module.exports = {
   transpileDependencies: true,
-  publicPath: "resizable-floating-window",
-})
+  publicPath: "/resizable-floating-window/",
+}
