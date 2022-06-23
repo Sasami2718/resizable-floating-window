@@ -1,6 +1,8 @@
 # resizable-floating-window
 A window component can resize,float,and use as a service
 
+For examples  [live play](https://sasami2718.github.io/resizable-floating-window/)
+
 ## Project setup
 ```
 npm install
